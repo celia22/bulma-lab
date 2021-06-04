@@ -1,0 +1,9 @@
+.signup_buttons_container {
+  display: flex;
+  justify-content: center;
+  margin: 3vh;
+}
+
+.signup_button_submit {
+  margin-right: 3vh;
+}

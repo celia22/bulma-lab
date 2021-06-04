@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 3vh 5vh 15vh 5vh;
+}
+
+.buttons_container {
+  margin-right: 10vh;
+  display: flex;
+}
+
+.buttons_login {
+  margin-right: 3vh;
+}
